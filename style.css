@@ -1,0 +1,1022 @@
+body
+{
+    margin: 0%;
+}
+.main1
+{
+    width: 100%;
+    float: left;
+    background: #2b2b35;
+    height: 60px;
+    line-height: 31px;
+}
+.con1
+{
+    max-width: 84%;
+    margin: auto;
+}
+.header li
+{
+   list-style: none;
+   color: white;
+   text-decoration: none;
+   font-family: "Lato", sans-serif;
+   font-weight: 600;
+   float: left;
+   font-size: 15px;
+   /* margin-left: -22px; */
+   /* display: inline-block; */
+}
+.header ul li a
+{
+    display: inline-block;
+    padding: 0px 35px;
+}
+.a.fa.fa-phone
+{
+  color: #ffb300;
+  font-size: 25px;
+  margin-right: 11px;
+  float: left;
+  line-height: 31px;
+}
+
+.a {
+    margin-left: -22px;
+}
+.a.fa.fa-envelope-o
+ {
+    color: #ffb300;
+    font-size: 23px;
+    line-height: 26px;
+    margin-right: 9px;
+    display: inline-block;
+}
+.a.fa.fa-clock-o {
+    color: #ffb300;
+    font-size: 23px;
+    margin-right: 9px;
+    line-height: 29px;
+}
+
+
+.a input[type="text"] {
+  
+border-radius: 3px;
+  
+float: right;
+  
+background: #2b2b35;
+  
+border: solid 1px #41414a;
+  
+margin-top: -6px;
+  
+height: 34px;
+  
+width: 229px;
+  
+padding-left: 28px;
+  
+position: relative;
+  
+margin-right: 66px;
+}
+::-webkit-input-placeholder { /* Edge */
+    color: white;
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: white;
+  }
+  
+  ::placeholder {
+    color: white;
+    
+  }
+  a.fa.fa-search {
+    color: #fff;
+    position: absolute;
+    margin-left: 444px;
+    font-size: 18px;
+    margin-top: 3px;
+}
+
+
+a.fa.fa-search:hover {
+    color: #ffb300;
+}
+
+a.\31:hover {
+    color: #ffb300;
+}
+
+.main2
+{
+    width: 100%;
+    float: left;
+    
+}
+.con2
+{
+    width: 84%;
+    margin: auto;
+    padding: 25px;
+    margin-left: 149px;
+}
+.logo
+{
+    float: left;
+    width: 30%;
+}
+.menu
+{
+    float: left;
+    width: 70%;
+}
+.menu li
+{
+    float: left;
+    list-style: none;
+    display: table;
+    padding: 0px 21px;
+}
+.menu ul
+{
+  float:right;
+  margin-right: 100px;
+}
+.menu a {
+    color: #666666;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: "Raleway", sans-serif;
+}
+
+/* ABOUT COMPANY */
+.main3::after
+{content: "";position: absolute;top: 0;left: 0;width: 100%;height: 100%;background-color: #0000006e;}
+.con3
+{
+    width: 76.9%;
+    margin: auto;
+}
+h2, h1, h3, h4
+{
+    font-family: "Raleway", sans-serif;
+    line-height: 1.3;
+}
+.about h2 {
+    font-size: 30px;
+}
+
+.about h2 {
+    font-weight: 300;
+    color: white;
+}
+body
+{
+    margin: 0%;
+}
+.main1
+{
+    width: 100%;
+    float: left;
+    background: #2b2b35;
+    height: 60px;
+    line-height: 31px;
+}
+.con1
+{
+    max-width: 84%;
+    margin: auto;
+}
+.header li
+{
+   list-style: none;
+   color: white;
+   text-decoration: none;
+   font-family: "Lato", sans-serif;
+   font-weight: 600;
+   float: left;
+   font-size: 15px;
+   /* margin-left: -22px; */
+   /* display: inline-block; */
+}
+.header ul li a
+{
+    display: inline-block;
+    padding: 0px 35px;
+}
+.fa.fa-phone
+{
+  color: #ffb300;
+  font-size: 25px;
+  margin-right: 11px;
+  float: left;
+  line-height: 31px;
+}
+
+a.\31 {
+    margin-left: -22px;
+}
+i.fa.fa-envelope-o
+ {
+    color: #ffb300;
+    font-size: 23px;
+    line-height: 26px;
+    margin-right: 9px;
+    display: inline-block;
+}
+.a i.fa.fa-clock-o {
+    color: #ffb300;
+    font-size: 23px;
+    margin-right: 9px;
+    line-height: 29px;
+}
+
+
+.a input[type="text"] {
+  
+border-radius: 3px;
+  
+float: right;
+  
+background: #2b2b35;
+  
+border: solid 1px #41414a;
+  
+margin-top: -6px;
+  
+height: 34px;
+  
+width: 229px;
+  
+padding-left: 28px;
+  
+position: relative;
+  
+color: white;
+  
+margin-right: 66px;
+}
+::-webkit-input-placeholder { /* Edge */
+    color: white;
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: white;
+  }
+  
+  ::placeholder {
+    color: white;
+    
+  }
+  i.fa.fa-search {
+    color: #fff;
+    position: absolute;
+    margin-left: 421px;
+    font-size: 18px;
+    margin-top: 3px;
+}
+
+
+i.fa.fa-search:hover {
+    color: #ffb300;
+}
+
+a.\31:hover {
+    color: #ffb300;
+}
+
+.main2
+{
+    width: 100%;
+    float: left;
+    
+}
+.con2
+{
+    width: 84%;
+    margin: auto;
+    margin-left: 174px;
+    padding: 30px 0 74px 0;
+}
+.logo
+{
+    float: left;
+    width: 30%;
+}
+.menu
+{
+    float: left;
+    width: 70%;
+}
+.menu li
+{
+    float: left;
+    list-style: none;
+    display: table;
+    padding: 0px 21px;
+}
+.menu ul
+{
+  float:right;
+  margin-right: 100px;
+}
+.menu a {
+    color: #666666;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: "Raleway", sans-serif;
+}
+
+/* ABOUT COMPANY */
+.main3
+{
+    width: 100%;
+    float: left;
+    background-image: url(image/bg-image-4.jpg);
+    background-size: cover;
+    height: 519px;
+    position: relative;
+}
+.con3
+{
+    width: 76.9%;
+    margin: auto;
+    
+}
+h2, h1, h3, h4
+{
+    font-family: "Raleway", sans-serif;
+    line-height: 1.3;
+    color: #2b2b35;
+}
+.about h2 {
+    font-size: 30px;
+    position: relative;
+    z-index: 9;
+    font-weight: 300;
+    color: white;
+}
+.interior h2 {
+    font-size: 60px;
+    border: solid 1px white;
+    height: 77px;
+    width: 545px;
+    text-align: center;
+    COLOR: WHITE;
+}
+.interior {
+    margin-bottom: -19px;
+    color: white;
+    z-index: 9;
+    position: relative;
+}
+.about {
+    margin-bottom: -38px;
+    margin-top: 182px;
+}
+.main3::after 
+{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #00000085;
+}
+.about h2 
+{
+    font-size: 30px;
+    position: relative;
+    z-index: 9;
+    font-weight: 300;
+    color: white;
+}
+.button1 button 
+{
+    background-color: #ffb300;
+    z-index: 9;
+    position: relative;
+    border: none;
+    width: 159px;
+    height: 50px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    color: #000000b5;
+    font-size: 15px;
+    border-radius: 3px;
+}
+
+/* what we do */
+.main4
+{
+    width: 100%;
+    float: left;
+}
+.con4
+{
+   width:76.9%;
+   margin: auto;
+   PADDING: 109PX 0;
+}
+.box
+{
+    width: 40px;
+    height: 40px;
+    background-color:#ffb300;
+    margin-top: -81px;
+    margin-left: 0.31PX;
+}
+.work h1
+{
+    text-align: left;
+    font-size: 29px;
+    margin-left: 25.5px;
+}
+.image1
+{
+    width: 26%;
+    float: left;
+    margin-top: 85px;
+}
+.paragraf
+{
+    width: 74%;
+    float: left;
+    margin-top: 60px;
+}
+ p {
+    font-family: sans-serif;
+    color: #545353;
+    font-size: 14px;
+    line-height: 2;
+}
+
+.button2 button {
+    letter-spacing: 1px;
+    background: white;
+    border: solid 1.9px #3e3e3e;
+    color: black;
+    font-family: sans-serif;
+    width: 135px;
+    height: 36px;
+    font-weight: 600;
+    border-radius: 3px;
+}
+.button2 button:hover
+{
+    background: black;
+    color: white;
+    transition: 0.5s;
+}
+.button2 {
+    margin-top: 28px;
+}
+.con4 hr
+{
+    float: left;
+    height: 0px;
+    border-top: solid 2px #e5e5e5;
+    width: 100%;
+    margin-top: 73px;
+    margin-bottom: 52px;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+}
+.work1-1, .work1-2, .work1-3
+{
+    width: 29.333%;
+    float: left;
+    margin-left: 23px;
+    margin-right: 23px;
+    /* padding: 0; */
+    margin-bottom: 63px;
+}
+.work1-1 img, .work1-2 img, .work1-3 img
+{
+    float: left;
+    margin-top: 28px;
+    margin-left: 0px;
+}
+.about-work h4
+{
+    margin-left: 91px;
+    font-family: "Raleway", sans-serif;
+    line-height: 1.3;
+    color: #2b2b35;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 18px;
+}
+
+.work1-1 p, .work1-2 p, .work1-3 p
+{
+    margin-left: 93px;
+    margin-top: -12px;
+    line-height: 1.6;
+}
+ 
+/* our project */
+.main5 {
+    width: 100%;
+    float: left;
+    background: rgb(43, 43, 53);
+    padding-top: 65px;
+    padding-bottom: 138px;
+}
+.con5 {
+    width: 76.9%;
+    margin: auto;
+    display: table;
+}
+.title h1 {
+    margin-left: 25px;
+    color: white;
+}
+.buttons3 ul
+{
+    float: right;
+}
+.buttons3 li
+{
+    float: left;
+    display: contents;
+}
+.buttons3 button {
+    background: white;
+    border: none;
+    padding: 15px 24px;
+    font-family: 'Raleway';
+    color: #565353d4;
+    font-weight: 600;
+}
+.title {
+    float: left;
+}
+button.b1 {
+    background: #ffb300;
+    color: #434242;
+}
+.buttons3 button:hover {
+    background: #ffb300;
+    color: #434242;
+}
+.images2 
+{
+    float: left;
+    margin-top: 0;
+}
+.images2 img {
+    padding: 25px 0px 25px 24px;
+    height: 355px;
+    width: 350px;
+}
+.main6
+{
+    width: 100%;
+    float: left;
+    padding: 113px 0;
+}
+.con6
+{
+    width: 76.9%;
+    margin: auto;
+}
+.team
+{
+    float: left;
+    width: 11%;
+    text-align: center;
+    display: table;
+    margin-top: 79px;
+    padding-right: 10.5px;
+    padding-left: 10.5px;
+}
+
+.team p {
+    margin-top: -25px;
+    font-size: 13px;
+    font-family: 'Raleway';
+}
+.team h4 {
+    margin-top: 10px;
+    color: #2b2b35c2;
+    font-size: 18px;
+}
+
+.team a p {
+    margin-top: 10px;
+    font-size: 15px;
+    font-family: 'Raleway';
+    line-height: 1.7;
+    color: black;
+}
+.title2 h1 {
+    margin-left: 25.5px;
+}
+.logoes {
+    background: #f5f5f5;
+    width: 100%;
+    height: 52px;
+    line-height: 53px;
+    margin-top: 28px;
+}
+
+.logoes i.fa.fa-google-plus, .logoes i.fa.fa-facebook, .logoes i.fa.fa-pinterest, .logoes i.fa.fa-instagram, .logoes i.fa.fa-twitter {
+    padding: 8px;
+}
+
+.logoes i.fa.fa-google-plus:hover {
+    color: #db4a39;
+}
+
+.logoes i.fa.fa-pinterest:hover {
+    color: #e60023;
+}
+ 
+.logoes i.fa.fa-twitter:hover {
+    color: #00ACEE;
+}
+
+.logoes i.fa.fa-instagram:hover {
+    color: #D82E86;
+}
+.logoes i.fa.fa-facebook:hover {
+    color: #4267b2;
+}
+
+.main7
+{
+    width: 100%;
+    float: left;
+    background-image: url(image/bg-image-11.jpg);
+    background-size: cover;
+    height: 384px;
+    background-attachment: fixed;
+    position: relative;
+}
+.con7
+{
+    width: 76.9%;
+    margin: auto;
+}
+.icon
+{
+    float: left;
+    width: 25%;
+    text-align: center;
+    position: relative;
+    background-size: cover;
+    z-index: 9;
+    margin-top: 8px;
+}
+
+.main7::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #0000007d;
+}
+
+.funfact-icon, .funfact-icon2
+         {
+           background: #ffb300;
+           width: 90px;
+           height: 90px;
+           border-radius: 100%;
+           margin-top: 90px;
+           line-height: 8;
+           margin-left: 99px;
+           }
+
+.icon p {
+    color: white;
+    font-size: 15px;
+    margin-top: -24px;
+}
+.icon h1 {
+    color: white;
+    font-size: 39px;
+}
+.funfact-icon2 img {
+    margin-bottom: 6px;
+}
+.main8
+{
+   width: 100%;
+   float: left;
+   padding: 91px 0;
+   background-color: #f5f5f5;
+}
+.con8
+{
+    width: 76.9%;
+    margin: auto;
+}
+.about2
+{
+    width: 30%;
+    float: left;
+    margin-top: 66px;
+    margin-right: 38px;
+}
+.date
+{
+    margin-right: 22px;
+    float: left;
+    color: #5a5858;
+}
+
+.date p {
+    float: right;
+}
+
+.dc hr {margin-bottom: 15px;width: 370px;margin-top: 47px;}
+.about2 h4 {
+    font-family: 'Raleway';
+    color: #2b2b35de;
+    font-size: 19px;
+}
+
+.title3 h1 {
+    margin-left: 25px;
+}
+
+.about2 p {
+    margin-top: -12px;
+}
+.about2 button:hover {
+    background: #ffb300;
+    border: none;
+    transition: 0.5s;
+}
+.about2 button {
+    background: whitesmoke;
+    margin-top: 22px;
+}
+
+/* testimonial */
+.main9
+{
+    width: 100%;
+    float: left;
+    padding: 106px 0;
+}
+.con9
+{
+    width: 76.9%;
+    margin: auto;
+}
+.testimonials
+{
+    width: 50%;
+    float: left;
+}
+.worker-name
+{
+    float:left;
+    margin-left: 17px;
+    margin-top: -20px;
+}
+.title4 h1 {
+    margin-left: 24px;
+}
+.title4 p {
+    padding: 30px 27px;
+    margin-top: 71px;
+    margin-bottom: 42px;
+    font-size: 15px;
+    color: #666666;
+    background: #f7f7f7;
+    line-height: 1.5;
+    width: 498px;
+    border-radius: 3px;
+    font-family: 'Raleway';
+}
+.worker-img img {
+    float: left;
+    border-radius: 100%;
+    margin-left:34px;
+    margin-top: -9px;
+}
+.worker-name h4 {
+    font-size: 20px;
+    color: #444444e3;
+    font-weight: 600;
+    margin-bottom: -3px;
+}
+
+.worker-name p {
+    margin-top: 7px;
+}
+.logoes2
+{
+    float: left;
+    width: 50%;
+}
+.title5 h1 {
+    margin-left: 24px;
+}
+.logo2-1, .logo2-3, .logo2-2
+{
+    float: left;
+    border: solid 1px #dad8d8;
+    width: 177px;
+    height: 111px;
+    text-align: center;
+}
+.logo2-1 img {
+    margin-top: 20px;
+}
+.logo2-3 img
+{
+    margin-top: 36px;
+}
+.logo2-2 img
+{
+    margin-top: 31px;
+}
+
+.logo2 {
+    margin-top: 71px;
+}
+
+.main10
+{
+    float: left;
+    width: 100%;
+    background: rgb(43 43 53);
+}
+.con10
+{
+    width: 76.9%;
+    margin: auto;
+}
+.symball5
+{
+    float: left;
+    width: 40%;
+    color: white;
+}
+.email {
+    float: right;
+    width: 60%;
+}
+.sletter {
+    float: left;
+    margin-top: 14px;
+    margin-left: 35px;
+    font-size: 14px;
+}
+.email-1 {
+    float: left;
+    margin-left: 21px;
+}
+.button5
+{
+    float: right;
+}
+
+.email-1 input[type="text"] {
+    float: left;
+    background: rgb(43, 43, 53);
+    border: solid 2px #ffb300;
+    border-radius: 3px 0px 0px 3px;
+    text-align: left;
+    width: 334px;
+    height: 40px;
+}
+.sletter h2 {
+    color: white;
+    margin-top: -4px;
+}
+
+.symball5 i.fa.fa-twitter:hover, .symball5 i.fa.fa-facebook:hover, .symball5 i.fa.fa-google-plus:hover, .symball5 i.fa.fa-instagram:hover, .symball5 i.fa.fa-pinterest:hover {
+    background: #ffb300;
+    color: white;
+    border: solid 1px #ffb300;
+    transition: 0.5s;
+}
+.symball5 i.fa.fa-twitter, .symball5 i.fa.fa-facebook, .symball5 i.fa.fa-google-plus, .symball5 i.fa.fa-instagram, .symball5 i.fa.fa-pinterest {
+    border: solid 1px #ded8d8;
+    color: #ded8d8;
+    border-radius: 100%;
+    width: 44px;
+    height: 44px;
+    text-align: center;
+    line-height: 2.3;
+    font-size: 19px;
+}
+.button5 button {
+    background: #ffb300;
+    border: none;
+    width: 140px;
+    height: 46px;
+    border-radius: 0px 3px 3px 0px;
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.top {
+    padding-top: 23px;
+    padding-bottom: 30px;
+}
+.main10 hr {
+    border-top: solid 1px #99999973;
+    margin-top: 71px;
+    width: 1520px;
+    margin-left: -176px;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+}
+.information
+{
+    float: left;
+}
+.information1
+{
+  width: 23%;
+  float: left;
+  margin-right: 33px;
+}
+.information1 h2, .information2 h2
+{
+    color: white;
+    font-size: 20px;
+}
+.line
+{
+    border: solid 1.2px #ffb300;
+    width: 38px;
+    margin-top: -12px;
+    background: #ffb300;
+}
+
+.information1 img, .information2 img{
+    margin-top: 27px;
+}
+
+
+.information1 p, .information2 p {
+    color: white;
+    font-size: 12px;
+    margin-top: 20px;
+}
+.information2
+{
+    float: left;
+    width: 21.9009999%;
+    margin-right: 33px;
+}
+.information2 hr {
+    width: 100%;
+    margin-top: -4px;
+    float: right;
+}
+.p-tag {
+    margin-top: 30px;
+}
+.main11
+{
+    width: 100%;
+    float: left;
+    background: #2b2b35;
+    height: 139px;
+}
+.con11
+{
+    width: 76.9%;
+    margin: auto;
+}
+.main11 p{
+    float: left;
+    color: white;
+    font-size: 12px;
+    margin-top: 14px;
+}
+.main11 img
+{
+    float: right;
+    margin-top: 14px;
+}
+
+.main11 hr {
+    border-top: solid 1px #99999973;
+    margin-top: 71px;
+    /* width: 1520px; */
+    /* margin-left: -176px; */
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
